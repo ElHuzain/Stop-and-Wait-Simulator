@@ -1,6 +1,7 @@
 let tick = 0; // Distance/timer metric
 let distance = 5; // Distance between S and R is 5 ticks
 // Sender & Receiver classes
+// New command.
 class senderC {
     constructor(){
         this.toBeSent = 0;
